@@ -5,7 +5,7 @@
 🔌 **CCNA Certified | Networking Internship at Cisco**  
 
 ## 📌 About Me  
-I am an **AI & Data Science enthusiast** with a strong foundation in **software development, networking, and problem-solving**.  
+I am an **AI & Data Science enthusiast** with a strong foundation in **software development,  and problem-solving**.  
 🔹 I have developed a **Virtual Mouse** and an **Online Voting System**.  
 🔹 Passionate about **Machine Learning, Deep Learning, and Computer Vision**.  
 🔹 Always eager to **learn new technologies and work on innovative projects**.  
